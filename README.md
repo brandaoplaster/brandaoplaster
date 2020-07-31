@@ -1,11 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Lucas
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=brandaoplaster" alt="brandaoplaster" /> 
+</p>
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brandaoplaster)](https://github.com/brandaoplaster)
+<a href="https://github.com/brandaoplaster" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandaoplaster" height="20" width="20" />
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-plaster-204571143/)](https://www.linkedin.com/in/lucas-plaster-204571143/)
+<a href="https://www.linkedin.com/in/lucas-plaster-204571143/" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="brandaoplaster" height="20" width="20" />
+</a>
 
-[![Sourcere Badge](https://img.shields.io/badge/-Sourcerer-green?style=flat-square&logo=Sourcerer&logoColor=green&link=https://sourcerer.io/brandaoplaster/)](https://sourcerer.io/brandaoplaster/)
+<a href="https://sourcerer.io/brandaoplaster" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/opensourceinitiative.svg" alt="brandaoplaster" height="20" width="20" />
+</a>
+
 
  🌱 I’m currently learning ReactJs and React Native
 
