@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Lucas
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=brandaoplaster" alt="brandaoplaster" /> 
-</p>
+
 
 
 <a href="https://github.com/brandaoplaster" target="blank">
@@ -16,26 +14,37 @@
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/opensourceinitiative.svg" alt="brandaoplaster" height="20" width="20" />
 </a>
 
-
-
 <p align="left">
- :united_nations:
+ :us:
 </p>
- <p align="left">
+<p align="left">
   🌱 I’m currently learning ReactJs and React Native 
+</p>
+<p align="left">
+ - 💬 About me
+ Developer focused on ruby on rails and javascript, but technology enthusiast, especially Open Source technologies.
+ I like to surprise linux distros and make comparisons, I am currently using Fedora.
 </p>
 
 <p align="right">
  :brazil:
 </p>
- <p align="right">
+<p align="right">
   🌱 Atualmente, estou aprendendo ReactJs e React Native 
+</p>
+<p align="left">
+ - 💬 Sobre mim 
+Desenvolvedor com foco em ruby on rails e javascript, porém entusiasta de tecnologia, em especial tecnologias Open Source.
+Gosto de expreimenta distros linux e realizar comparativos, atualemente estou utilizando Fedora.
 </p>
 
 <!--
 **brandaoplaster/brandaoplaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=brandaoplaster&show_icons=true" alt="brandaoplaster" /> 
+</p>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=brandaoplaster" alt="brandaoplaster" /> 
 </p>
 
 Here are some ideas to get you started:
