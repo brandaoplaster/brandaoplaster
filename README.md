@@ -22,6 +22,7 @@
 </p>
 <p align="left">
  - 💬 About me
+ 
  Developer focused on ruby on rails and javascript, but technology enthusiast, especially Open Source technologies.
  I like to surprise linux distros and make comparisons, I am currently using Fedora.
 </p>
@@ -34,6 +35,7 @@
 </p>
 <p align="left">
  - 💬 Sobre mim 
+ 
 Desenvolvedor com foco em ruby on rails e javascript, porém entusiasta de tecnologia, em especial tecnologias Open Source.
 Gosto de expreimenta distros linux e realizar comparativos, atualemente estou utilizando Fedora.
 </p>
