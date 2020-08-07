@@ -17,10 +17,26 @@
 </a>
 
 
- 🌱 I’m currently learning ReactJs and React Native
+
+<p align="left">
+ :united_nations:
+</p>
+ <p align="left">
+  🌱 I’m currently learning ReactJs and React Native 
+</p>
+
+<p align="right">
+ :brazil:
+</p>
+ <p align="right">
+  🌱 Atualmente, estou aprendendo ReactJs e React Native 
+</p>
 
 <!--
 **brandaoplaster/brandaoplaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=brandaoplaster&show_icons=true" alt="brandaoplaster" /> 
+</p>
 
 Here are some ideas to get you started:
 
@@ -33,6 +49,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=brandaoplaster&show_icons=true" alt="brandaoplaster" /> 
-</p>
+
