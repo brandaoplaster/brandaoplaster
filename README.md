@@ -37,8 +37,16 @@
  - 💬 Sobre mim 
  
 Desenvolvedor com foco em ruby on rails e javascript, porém entusiasta de tecnologia, em especial tecnologias Open Source.
-Gosto de expreimenta distros linux e realizar comparativos, atualemente estou utilizando Fedora.
+Gosto de expreimenta distros linux e realizar comparativos, atualmente estou utilizando Fedora.
 </p>
+
+<center>
+ <table>
+   <tr>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandaoplaster&hide=html&layout=compact" /></td>
+   </tr>   
+ </table>
+</center>
 
 <!--
 **brandaoplaster/brandaoplaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
