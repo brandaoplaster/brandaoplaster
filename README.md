@@ -33,7 +33,7 @@
 <p align="right">
   🌱 Atualmente, estou aprendendo ReactJs e React Native 
 </p>
-<p align="left">
+<p align="right">
  - 💬 Sobre mim 
  
 Desenvolvedor com foco em ruby on rails e javascript, porém entusiasta de tecnologia, em especial tecnologias Open Source.
