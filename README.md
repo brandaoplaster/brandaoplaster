@@ -20,6 +20,12 @@
 <p align="left">
   🌱 I’m currently learning ReactJs and React Native 
 </p>
+
+<p align="left">
+  📫 How to reach me: You can send me a message on LinkedIn
+</p>
+
+
 <p align="left">
  - 💬 About me
  
@@ -33,6 +39,11 @@
 <p align="right">
   🌱 Atualmente, estou aprendendo ReactJs e React Native 
 </p>
+
+<p align="left">
+  📫 Como entrar em contato comigo: você pode me enviar uma mensagem no LinkedIn
+</p>
+
 <p align="right">
  - 💬 Sobre mim 
  
