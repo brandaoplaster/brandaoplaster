@@ -25,6 +25,10 @@
   📫 How to reach me: You can send me a message on LinkedIn
 </p>
 
+<p align="left">
+ - 🔭 I am currently working on some personal projects using ruby on rails, vuejs and react.
+</p>
+
 
 <p align="left">
  - 💬 About me
@@ -40,8 +44,12 @@
   🌱 Atualmente, estou aprendendo ReactJs e React Native 
 </p>
 
-<p align="left">
+<p align="right">
   📫 Como entrar em contato comigo: você pode me enviar uma mensagem no LinkedIn
+</p>
+
+<p align="right">
+ - 🔭 Atualmente estou trabalhando em alguns projetos pessoais usando ruby on rails, vuejs e react.
 </p>
 
 <p align="right">
