@@ -26,15 +26,15 @@
 </p>
 
 <p align="left">
- - 🔭 I am currently working on some personal projects using ruby on rails, vuejs and react.
+ - 🔭 I am currently working on some personal projects using ruby on rails, react.
 </p>
 
 
 <p align="left">
  - 💬 About me
  
- Developer focused on ruby on rails and javascript, but technology enthusiast, especially Open Source technologies.
- I like to surprise linux distros and make comparisons, I am currently using Fedora.
+Technology enthusiast, especially Open Source technologies.
+I like to surprise Linux distros and make comparisons, I'm currently using Fedora.
 </p>
 
 <p align="right">
@@ -55,7 +55,7 @@
 <p align="right">
  - 💬 Sobre mim 
  
-Desenvolvedor com foco em ruby on rails e javascript, porém entusiasta de tecnologia, em especial tecnologias Open Source.
+Entusiasta de tecnologia, em especial tecnologias Open Source.
 Gosto de expreimenta distros linux e realizar comparativos, atualmente estou utilizando Fedora.
 </p>
 
