@@ -1,18 +1,26 @@
 ### Hi there 👋, I'm Lucas
 
-
-
-<a href="https://github.com/brandaoplaster" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandaoplaster" height="20" width="20" />
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-plaster-204571143/" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="brandaoplaster" height="20" width="20" />
-</a>
-
-<a href="https://sourcerer.io/brandaoplaster" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/opensourceinitiative.svg" alt="brandaoplaster" height="20" width="20" />
-</a>
+### My links
+<ul>
+  <li>
+    <a href="https://github.com/brandaoplaster" target="blank">
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandaoplaster" height="30" width="30" />
+    </a>
+  </li>
+  
+  <li>
+   <a href="https://www.linkedin.com/in/lucas-plaster-204571143/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="brandaoplaster" height="30" width="30" />
+   </a>
+  </li>
+  
+  <li>
+   <a href="https://sourcerer.io/brandaoplaster" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/opensourceinitiative.svg" alt="brandaoplaster" height="30" width="30" />
+   </a>
+ </li>
+ 
+</ul>
 
 <p align="left">
  :us:
