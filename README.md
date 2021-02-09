@@ -42,29 +42,7 @@
  - 💬 About me
  
 Technology enthusiast, especially Open Source technologies.
-I like to surprise Linux distros and make comparisons, I'm currently using Fedora.
-</p>
-
-<p align="right">
- :brazil:
-</p>
-<p align="right">
-  🌱 Atualmente, estou aprendendo ReactJs e React Native 
-</p>
-
-<p align="right">
-  📫 Como entrar em contato comigo: você pode me enviar uma mensagem no LinkedIn
-</p>
-
-<p align="right">
- - 🔭 Atualmente estou trabalhando em alguns projetos pessoais usando ruby on rails, vuejs e react.
-</p>
-
-<p align="right">
- - 💬 Sobre mim 
- 
-Entusiasta de tecnologia, em especial tecnologias Open Source.
-Gosto de expreimenta distros linux e realizar comparativos, atualmente estou utilizando Fedora.
+I like to surprise Linux distros and make comparisons, I'm currently using Ubuntu.
 </p>
 
 <center>
