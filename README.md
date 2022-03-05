@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate Software Engineering from Brazil</h3>
+<h3 align="center">A Software Engineering from Brazil</h3>
 
 - 🌱 I’m currently learning **Elixir, Ruby, graphQL, PostgreSQL**
 
