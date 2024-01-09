@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Software Engineering from Brazil</h3>
 
-- 🌱 I’m currently learning **Elixir, Ruby, graphQL, PostgreSQL**
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, Elixir, graphQL, PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
