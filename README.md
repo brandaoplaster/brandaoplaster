@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Software Engineering from Brazil</h3>
 
-- 🌱 My stacks **Ruby on Rails, Typescript, Reactjs, Elixir, graphQL, PostgreSQL**
+- 🌱 My stacks **Ruby on Rails, Typescript, Reactjs, Elixir, graphQL, PostgreSQL, GoLang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
